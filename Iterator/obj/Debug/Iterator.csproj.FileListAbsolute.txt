@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\bin\Debug\Iterator.dll
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\obj\Debug\Iterator.dll
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Usuario\Desktop\Patrones\Iterator\bin\Debug\Iterator.dll
+C:\Users\Usuario\Desktop\Patrones\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Usuario\Desktop\Patrones\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones\Iterator\obj\Debug\Iterator.dll
+C:\Users\Usuario\Desktop\Patrones\Iterator\obj\Debug\Iterator.pdb

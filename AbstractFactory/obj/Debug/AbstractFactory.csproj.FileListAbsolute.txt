@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\Usuario\Desktop\Patrones-de-dise-o\PatronesDeDiseño\AbstractFactory\obj\Debug\AbstractFactory.pdb

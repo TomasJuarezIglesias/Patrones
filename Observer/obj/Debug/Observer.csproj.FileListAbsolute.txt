@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\bin\Debug\Observer.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\bin\Debug\Observer.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\obj\Debug\Observer.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Observer\obj\Debug\Observer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\bin\Debug\Mediator.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\obj\Debug\Mediator.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Mediator\obj\Debug\Mediator.pdb

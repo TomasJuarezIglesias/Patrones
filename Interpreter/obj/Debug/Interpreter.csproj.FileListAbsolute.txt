@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\bin\Debug\Interpreter.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\obj\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\obj\Debug\Interpreter.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Interpreter\obj\Debug\Interpreter.pdb

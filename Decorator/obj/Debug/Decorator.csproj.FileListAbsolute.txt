@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\bin\Debug\Decorator.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\obj\Debug\Decorator.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Decorator\obj\Debug\Decorator.pdb

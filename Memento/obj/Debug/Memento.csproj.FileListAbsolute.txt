@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\bin\Debug\Memento.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\bin\Debug\Memento.pdb
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\obj\Debug\Memento.dll
+C:\Users\Usuario\Desktop\PatronesDeDiseño\Memento\obj\Debug\Memento.pdb
