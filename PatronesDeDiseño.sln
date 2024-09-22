@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{ACDEB8A7-13B8-41B4-B962-B3F1785CF9A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyWeight.csproj", "{DDE1334A-46BB-43A4-92CD-F476327957A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{ACDEB8A7-13B8-41B4-B962-B3F1785CF9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACDEB8A7-13B8-41B4-B962-B3F1785CF9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACDEB8A7-13B8-41B4-B962-B3F1785CF9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE1334A-46BB-43A4-92CD-F476327957A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE1334A-46BB-43A4-92CD-F476327957A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE1334A-46BB-43A4-92CD-F476327957A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE1334A-46BB-43A4-92CD-F476327957A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

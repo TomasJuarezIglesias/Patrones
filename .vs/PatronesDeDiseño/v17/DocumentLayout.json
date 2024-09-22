@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Patrones\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\tjuar\\Desktop\\Patrones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|c:\\users\\tjuar\\desktop\\patrones\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|c:\\users\\tjuar\\desktop\\patrones\\flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|c:\\users\\tjuar\\desktop\\patrones\\flyweight\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|c:\\users\\tjuar\\desktop\\patrones\\flyweight\\iflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE1334A-46BB-43A4-92CD-F476327957A7}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\iflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\Auto.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\Auto.cs",
+              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\Auto.cs",
+              "RelativeToolTip": "FlyWeight\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:09:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFlyWeight.cs",
+              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\IFlyWeight.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\IFlyWeight.cs",
+              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\IFlyWeight.cs",
+              "RelativeToolTip": "FlyWeight\\IFlyWeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:09:08.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlyWeightFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\FlyWeightFactory.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\FlyWeightFactory.cs",
+              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\FlyWeightFactory.cs",
+              "RelativeToolTip": "FlyWeight\\FlyWeightFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:08:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\Program.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\Program.cs",
+              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\FlyWeight\\Program.cs",
+              "RelativeToolTip": "FlyWeight\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:00:46.714Z",
+              "EditorCaption": ""
             }
           ]
         }
