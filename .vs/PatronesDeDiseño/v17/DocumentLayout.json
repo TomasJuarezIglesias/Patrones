@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tjuar\\Desktop\\Patrones\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Patrones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|c:\\users\\usuario\\desktop\\patrones\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|solutionrelative:builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\proxyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|c:\\users\\usuario\\desktop\\patrones\\builder\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|solutionrelative:builder\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|c:\\users\\usuario\\desktop\\patrones\\builder\\masa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|solutionrelative:builder\\masa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\usuario\\desktop\\patrones\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|c:\\users\\usuario\\desktop\\patrones\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A92B84-4800-44BD-9172-0EDDF4496DFC}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|c:\\users\\tjuar\\desktop\\patrones\\proxy\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23AA345-F5A7-45A3-AF2B-5F72F9A743D4}|Proxy\\Proxy.csproj|solutionrelative:proxy\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\usuario\\desktop\\patrones\\templatemethod\\concreteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\concreteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE7212C-95A6-4AEB-9AF3-EA6107786E91}|Facade\\Facade.csproj|c:\\users\\tjuar\\desktop\\patrones\\facade\\ventafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE7212C-95A6-4AEB-9AF3-EA6107786E91}|Facade\\Facade.csproj|solutionrelative:facade\\ventafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE7212C-95A6-4AEB-9AF3-EA6107786E91}|Facade\\Facade.csproj|c:\\users\\tjuar\\desktop\\patrones\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE7212C-95A6-4AEB-9AF3-EA6107786E91}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\usuario\\desktop\\patrones\\templatemethod\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD3CBA9-E384-47E6-AC15-65B91D3E7D79}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,122 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Masa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Masa.cs",
+              "RelativeDocumentMoniker": "Builder\\Masa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Masa.cs",
+              "RelativeToolTip": "Builder\\Masa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:29:23.705Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Session.cs",
-              "RelativeDocumentMoniker": "Proxy\\Session.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Session.cs",
-              "RelativeToolTip": "Proxy\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:23:39.923Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProxyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\ProxyRepository.cs",
-              "RelativeDocumentMoniker": "Proxy\\ProxyRepository.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\ProxyRepository.cs",
-              "RelativeToolTip": "Proxy\\ProxyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Pizza.cs",
+              "RelativeDocumentMoniker": "Builder\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Pizza.cs",
+              "RelativeToolTip": "Builder\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:21:33.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Repository.cs",
-              "RelativeDocumentMoniker": "Proxy\\Repository.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Repository.cs",
-              "RelativeToolTip": "Proxy\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:18:39.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\IRepository.cs",
-              "RelativeDocumentMoniker": "Proxy\\IRepository.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\IRepository.cs",
-              "RelativeToolTip": "Proxy\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:18:27.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Customer.cs",
-              "RelativeDocumentMoniker": "Proxy\\Customer.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Customer.cs",
-              "RelativeToolTip": "Proxy\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:17:37.866Z",
+              "WhenOpened": "2024-09-23T19:29:07.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Program.cs",
-              "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Proxy\\Program.cs",
-              "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Title": "PizzaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\PizzaBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\PizzaBuilder.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\PizzaBuilder.cs",
+              "RelativeToolTip": "Builder\\PizzaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:17:07.345Z",
+              "WhenOpened": "2024-09-23T19:28:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:28:29.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteClass.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\ConcreteClass.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\ConcreteClass.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\ConcreteClass.cs",
+              "RelativeToolTip": "TemplateMethod\\ConcreteClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:21:59.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "VentaFacade.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Facade\\VentaFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\VentaFacade.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Facade\\VentaFacade.cs",
-              "RelativeToolTip": "Facade\\VentaFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\Template.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Template.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\Template.cs",
+              "RelativeToolTip": "TemplateMethod\\Template.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:06:55.206Z",
+              "WhenOpened": "2024-09-23T19:20:42.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tjuar\\Desktop\\Patrones\\Facade\\Program.cs",
-              "RelativeDocumentMoniker": "Facade\\Program.cs",
-              "ToolTip": "C:\\Users\\tjuar\\Desktop\\Patrones\\Facade\\Program.cs",
-              "RelativeToolTip": "Facade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Patrones\\TemplateMethod\\Program.cs",
+              "RelativeToolTip": "TemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T18:56:53.614Z",
+              "WhenOpened": "2024-09-23T19:20:11.232Z",
               "EditorCaption": ""
             }
           ]
